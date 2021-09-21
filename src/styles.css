@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway&display=swap");
+
+.root {
+  --primary-color: #be185d;
+}
+
+.App {
+  font-family: "Raleway", sans-serif;
+  text-align: center;
+}
+
+p {
+  font-weight: bold;
+}
